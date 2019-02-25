@@ -1,0 +1,4 @@
+com/bookstoresystem/spring/config/MyWebAppInitializer.class
+com/bookstoresystem/spring/config/WebConfig.class
+com/bookstoresystem/spring/model/Book.class
+com/bookstoresystem/spring/config/AppConfig.class
